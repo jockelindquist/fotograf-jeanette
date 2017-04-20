@@ -1,0 +1,75 @@
+body, html {
+  margin: none;
+  padding: none;
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  background-image: url("img/stock_plumber.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+
+div.logo {
+  width:300px;
+  margin-left:auto;
+  margin-right:auto;
+  position: relative;
+  bottom:-400px;
+}
+
+img.logo {
+  width: 100%;
+}
+
+
+section, footer {
+  width: 100%;
+  margin-top: 100px;;
+  padding-left: 20%;
+  padding-right: 20%;
+  display: flex;
+  justify-content: center;
+  align-content: stretch;
+  flex-wrap: wrap;
+}
+
+div.subsection {
+  flex: 1 1 300px;
+  padding: 20px;
+}
+
+#presentation {
+  font-size: 1.5em;
+}
+
+#comfort-logo {
+  width: 100%;
+}
+
+#kontaktinfo {
+  font-size: 1.2em;
+}
+
+div.profile {
+  text-align: center;
+}
+
+img.profile {
+  width: 100px;
+}
+
+p.profile {
+
+}
+
+footer {
+  background-color: #222;
+  color:#ffffff;
+}
