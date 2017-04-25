@@ -73,7 +73,7 @@ section, footer {
 }
 
 div.subsection {
-  flex: 1 1 300px;
+  flex: 1 1 200px;
   padding: 20px;
 }
 
@@ -90,7 +90,7 @@ div.subsection {
 }
 
 p.significant {
-  font-size: 1,1;
+  font-size: 1,1em;
   font-weight: bold;
 }
 
