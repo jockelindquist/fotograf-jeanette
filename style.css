@@ -112,7 +112,10 @@ footer {
   color:#ffffff;
 }
 
+div.moraen {
+  text-align: center;
+}
+
 img.moraen {
-  width: 100%;
-  max-width: 200px;
+  width: 200px;
 }
