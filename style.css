@@ -3,7 +3,7 @@
     padding-left: 5%;
     padding-right: 5%;
   }
-  #leverantorer {
+  .hide_on_mobile {
     display: none;
   }
 
