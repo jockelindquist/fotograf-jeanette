@@ -79,10 +79,19 @@ div.subsection {
 
 #presentation {
   font-size: 1.3em;
+  text-align: justify;
 }
 
-#comfort-logo {
+span.orter {
+  font-size: 0.7em;
+}
+
+img.reseller-logo {
   width: 100%;
+}
+
+p.reseller-logo {
+  margin-top:2em;
 }
 
 #kontaktinfo {
@@ -100,6 +109,15 @@ div.profile {
 
 img.profile {
   width: 100px;
+  margin-bottom: 1em;
+}
+
+b.profile {
+  font-size: 1.1em;
+}
+
+i.profile {
+
 }
 
 p.profile {
