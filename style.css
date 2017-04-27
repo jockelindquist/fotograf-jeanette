@@ -9,9 +9,8 @@
 
   header {
     height: 300px;
-    background-position: center top;
+    background-position: center -100px;
     background-attachment: scroll;
-    background-size: contain;
   }
 }
 
@@ -24,7 +23,7 @@
   header {
     height: 600px;
     background-position: center;
-    background-size: cover;
+    background-attachment: fixed;
   }
 }
 
@@ -43,9 +42,8 @@ h1, h2, h3, h4, h5, h6 {
 header {
   width: 100%;
   background-image: url("img/newmans_header_2_bw.jpg");
-  background-attachment: fixed;
   background-repeat: no-repeat;
-
+  background-size: cover;
 }
 
 div.logo {
