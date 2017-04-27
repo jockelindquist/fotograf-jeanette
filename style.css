@@ -9,8 +9,9 @@
 
   header {
     height: 300px;
-    background-position: center -200px;
+    background-position: center top;
     background-attachment: scroll;
+    background-size: contain;
   }
 }
 
