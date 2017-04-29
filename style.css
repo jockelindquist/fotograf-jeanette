@@ -78,8 +78,15 @@ div.subsection {
 }
 
 #presentation {
-  font-size: 1.3em;
   text-align: justify;
+}
+
+p.ingress {
+  font-size: 1.3em;
+}
+
+p.regular {
+  font-size: 1.1em;
 }
 
 span.orter {
@@ -101,6 +108,8 @@ p.reseller-logo {
 p.significant {
   font-size: 1,1em;
   font-weight: bold;
+  margin-top: 1.1em;
+  margin-bottom: 1.1em;
 }
 
 div.profile {
