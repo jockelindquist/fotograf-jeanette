@@ -135,7 +135,13 @@ p.profile {
 
 footer {
   margin-top: 50px;
-  background-color: #222;
+  background-color: #222222;
+  background-image: url("img/moraen_bg.jpg");
+  background-size: cover;
+  background-position: center;
+  -webkit-box-shadow: inset 0px 10px 10px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset 0px 10px 10px -5px rgba(0,0,0,0.75);
+  box-shadow: inset 0px 10px 10px -5px rgba(0,0,0,0.75);
   color:#ffffff;
 }
 
